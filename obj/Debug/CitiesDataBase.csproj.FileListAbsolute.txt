@@ -1,0 +1,14 @@
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\CitiesDataBase.pdb
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\EntityFramework.dll
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\EntityFramework.xml
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\изюм\Desktop\CitiesDataBase\obj\Debug\CitiesDataBase.csprojAssemblyReference.cache
+C:\Users\изюм\Desktop\CitiesDataBase\obj\Debug\CitiesDataBase.csproj.CoreCompileInputs.cache
+C:\Users\изюм\Desktop\CitiesDataBase\obj\Debug\CitiesDataBase.csproj.CopyComplete
+C:\Users\изюм\Desktop\CitiesDataBase\obj\Debug\CitiesDataBase.pdb
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\CitiesDataBase.exe.config
+C:\Users\изюм\Desktop\CitiesDataBase\bin\Debug\CitiesDataBase.exe
+C:\Users\изюм\Desktop\CitiesDataBase\obj\Debug\CitiesDataBase.exe
